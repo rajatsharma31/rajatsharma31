@@ -62,18 +62,29 @@
 
 ## 🐍 Contribution Graph
 
+<h2 align="center">Contribution Snake</h2>
+
+<p align="center">
+  An animated snapshot of my GitHub contributions, refreshed every six hours.
+</p>
+
 <div align="center">
-
-### Contribution Snake Animation
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajatsharma31/rajatsharma31/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajatsharma31/rajatsharma31/output/github-snake.svg" />
-  <img width="95%" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rajatsharma31/rajatshara31/output/github-snake.svg" />
-</picture>
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/rajatsharma31/rajatsharma31/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/rajatsharma31/rajatsharma31/output/github-snake.svg"
+    />
+    <img
+      width="95%"
+      alt="Snake animation of Rajat Sharma's GitHub contributions"
+      src="https://raw.githubusercontent.com/rajatsharma31/rajatsharma31/output/github-snake.svg"
+    />
+  </picture>
 </div>
-
 
 ---
 
