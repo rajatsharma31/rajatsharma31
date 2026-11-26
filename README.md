@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=rajatsharma31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=rajatsharma31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
 
 <img height="165" src="https://streak-stats.demolab.com/?user=rajatsharma31&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
 
