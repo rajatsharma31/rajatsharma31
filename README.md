@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<img height="165" src="https://raw.githubusercontent.com/github-rajat229/github-rajat229/main/profile-summary-card-output/tokyonight/0-profile-details.svg)" alt="GitHub Stats" />
+<img height="165" src="https://raw.githubusercontent.com/rajatsharma31/rajatsharma31/main/profile-summary-card-output/tokyonight/0-profile-details.svg)" alt="GitHub Stats" />
 
 <img height="165" src="https://streak-stats.demolab.com/?user=rajatsharma31&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
 
