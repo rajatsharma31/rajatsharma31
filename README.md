@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-## 👀 Profile Views
+👀 Profile Views
  <br>
 <img src="https://komarev.com/ghpvc/?username=rajatsharma31&label=Profile+Views&color=0D75FF&style=for-the-badge" alt="Profile Views" />
 
