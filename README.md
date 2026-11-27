@@ -18,6 +18,18 @@
 </div>
 
 ---
+---
+
+## 🐍 Contribution Graph
+
+<h2 align="center">Contribution Snake</h2>
+
+
+<div align="center">
+<img width="95%" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rajatsharma31/rajatsharma31/output/github-snake-dark.svg?v=4" />
+</div>
+
+---
 
 ## 🚀 About Me
 
@@ -58,18 +70,6 @@
 
 </div>
 
----
-
-## 🐍 Contribution Graph
-
-<h2 align="center">Contribution Snake</h2>
-
-
-<div align="center">
-<img width="95%" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rajatsharma31/rajatsharma31/output/github-snake-dark.svg?v=4" />
-</div>
-
----
 
 ## 🌐 Connect With Me
 
